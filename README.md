@@ -4,7 +4,7 @@
 <p>🎲I'm learning to use data to make better decisions</p>
 <p>🧬I hold a biology degree</p>
 <p>🌎 Speak: Spanish/ English (fluent) - Intermediate: Portuguese / French (intermediate) </p>
-<p>🎢 Open to work on mindful data projects.</p>
+<p>🎢 Open to work on mindful data projects</p>
 <p>🌷Beyond coding I'm into mindful living: meditation, journaling, emotional unfoldment</p>
 <p>🪂 Excited to chat about the coding journey, habit formation and living a good life</p>
 </div>
