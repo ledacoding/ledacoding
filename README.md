@@ -11,13 +11,10 @@
 
 # Tech
 <div>
-  <p>In learning mode: Python (NumPy, Matplotlib)</p>
-<p>Parallel learning: 
-  <ul>
-<li>Statistical learning</li>
-<li>Mental models</li>
-  </ul>
-<p>Foundations on: JavaScript (React)</p>
+  <p>⫸ In learning mode: Python (NumPy, Matplotlib)</p>
+<p>⫸ Parallel learning: 
+  <p>Statistical learning 🔴 Mental models </p>
+<p>⫸ Foundations on: JavaScript (React)</p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leda-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
